@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Belo4\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Belo4\\.nuget\\packages"
+    ]
+  }
+}
